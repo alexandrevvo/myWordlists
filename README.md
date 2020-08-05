@@ -1,0 +1,2 @@
+# myWordlists
+Wordlists =)
